@@ -1,0 +1,864 @@
+1
+00:00:00,000 --> 00:00:04,680
+and kind of the confluence of this whole idea of the Confluence Week, the merging of two
+
+2
+00:00:04,680 --> 00:00:05,680
+rivers.
+
+3
+00:00:05,680 --> 00:00:13,720
+And as we've kind of seen recently in politics and in the world, there's a lot of situations
+
+4
+00:00:13,720 --> 00:00:16,960
+where water is very important right now, and it's a very big issue.
+
+5
+00:00:16,960 --> 00:00:21,960
+So that is the reason that the back of the logo is considered water.
+
+6
+00:00:21,960 --> 00:00:38,760
+So let me see the creation of the logo here.
+
+7
+00:00:38,760 --> 00:00:46,640
+So that basically kind of sums up the reason behind the logo and all the meanings behind
+
+8
+00:00:46,640 --> 00:00:48,160
+the symbolism.
+
+9
+00:00:48,160 --> 00:00:53,960
+And you'll hear a little bit more about our Confluence Week as basically highlighting all
+
+10
+00:00:53,960 --> 00:00:57,760
+of these indigenous events and things that are happening around Denver so that we can
+
+11
+00:00:57,760 --> 00:01:03,200
+kind of bring more people together and kind of share this whole idea of Indigenous People's
+
+12
+00:01:03,200 --> 00:01:04,200
+Day.
+
+13
+00:01:04,200 --> 00:01:05,280
+So thank you.
+
+14
+00:01:05,280 --> 00:01:08,320
+Thank you so much, and thanks for your leadership.
+
+15
+00:01:08,320 --> 00:01:10,200
+All right.
+
+16
+00:01:10,200 --> 00:01:13,720
+Welcome to the Denver City Council meeting of Monday, October 9th.
+
+17
+00:01:13,720 --> 00:01:16,920
+Please rise with the Pledge of Allegiance by Councilman Lopez.
+
+18
+00:01:16,920 --> 00:01:25,920
+I pledge allegiance to the flag of the United States of America, to the republic for which
+
+19
+00:01:25,920 --> 00:01:36,920
+it stands, one nation under God, indivisible, with liberty and justice for all.
+
+20
+00:01:36,920 --> 00:01:37,920
+All right.
+
+21
+00:01:37,920 --> 00:01:38,920
+Thank you, Councilman Lopez.
+
+22
+00:01:38,920 --> 00:01:40,920
+Madam Secretary, roll call.
+
+23
+00:01:40,920 --> 00:01:41,920
+Black.
+
+24
+00:01:41,920 --> 00:01:42,920
+Clerk.
+
+25
+00:01:43,120 --> 00:01:44,120
+Clerk.
+
+26
+00:01:44,120 --> 00:01:45,120
+Here.
+
+27
+00:01:45,120 --> 00:01:46,120
+Espinosa.
+
+28
+00:01:46,120 --> 00:01:47,120
+Here.
+
+29
+00:01:47,120 --> 00:01:48,120
+Flynn.
+
+30
+00:01:48,120 --> 00:01:49,120
+Gilmour.
+
+31
+00:01:49,120 --> 00:01:50,120
+Here.
+
+32
+00:01:50,120 --> 00:01:51,120
+Cashman.
+
+33
+00:01:51,120 --> 00:01:52,120
+Here.
+
+34
+00:01:52,120 --> 00:01:53,120
+Kenich.
+
+35
+00:01:53,120 --> 00:01:54,120
+Here.
+
+36
+00:01:54,120 --> 00:01:55,120
+Lopez.
+
+37
+00:01:55,120 --> 00:01:56,120
+Here.
+
+38
+00:01:56,120 --> 00:01:57,120
+New.
+
+39
+00:01:57,120 --> 00:01:58,120
+Ortega.
+
+40
+00:01:58,120 --> 00:01:59,120
+Here.
+
+41
+00:01:59,120 --> 00:02:00,120
+Sussman.
+
+42
+00:02:00,120 --> 00:02:01,120
+Here.
+
+43
+00:02:01,120 --> 00:02:02,120
+Mr. President.
+
+44
+00:02:02,120 --> 00:02:03,120
+Here.
+
+45
+00:02:03,120 --> 00:02:04,120
+Eleven present.
+
+46
+00:02:04,120 --> 00:02:05,120
+Eleven members present.
+
+47
+00:02:05,120 --> 00:02:06,120
+We do have a quorum.
+
+48
+00:02:06,120 --> 00:02:07,120
+Approval of the minutes.
+
+49
+00:02:07,120 --> 00:02:10,960
+Are there any corrections to the minutes of October 2nd?
+
+50
+00:02:10,960 --> 00:02:12,200
+Seeing none.
+
+51
+00:02:12,200 --> 00:02:13,880
+The minutes of October 2nd stand approved.
+
+52
+00:02:13,880 --> 00:02:14,880
+Council announcements.
+
+53
+00:02:14,880 --> 00:02:22,560
+Are there any announcements by members of council?
+
+54
+00:02:22,560 --> 00:02:23,560
+Councilman Clark.
+
+55
+00:02:23,560 --> 00:02:24,560
+Thank you, Mr. President.
+
+56
+00:02:24,560 --> 00:02:29,959
+I just wanted to invite everyone down to the first ever Halloween parade on Broadway
+
+57
+00:02:29,959 --> 00:02:31,600
+in Lucky District 7.
+
+58
+00:02:31,600 --> 00:02:35,519
+It will happen on Saturday, October 21st at 6 o'clock p.m.
+
+59
+00:02:35,519 --> 00:02:39,160
+It will move along Broadway from 3rd to Alameda.
+
+60
+00:02:39,160 --> 00:02:41,600
+It's going to be a fun, family-friendly event.
+
+61
+00:02:41,600 --> 00:02:45,120
+Everyone's invited to come down, wear a costume.
+
+62
+00:02:45,120 --> 00:02:53,320
+There will be candy for the kids and there are tiki zombies and 29 hearses and all
+
+63
+00:02:53,320 --> 00:02:58,440
+kinds of fun and funky stuff on the fun and funky part of Broadway.
+
+64
+00:02:58,440 --> 00:03:02,160
+So please join us October 21st at 6 o'clock for the Broadway Halloween parade.
+
+65
+00:03:02,160 --> 00:03:03,160
+Thank you, Mr. President.
+
+66
+00:03:03,160 --> 00:03:04,160
+All right.
+
+67
+00:03:04,160 --> 00:03:06,040
+Thank you, Councilman Clark.
+
+68
+00:03:06,040 --> 00:03:07,040
+I will be there.
+
+69
+00:03:07,040 --> 00:03:08,040
+All right.
+
+70
+00:03:08,040 --> 00:03:09,040
+Presentations.
+
+71
+00:03:09,959 --> 00:03:11,959
+Madam Secretary, do we have any presentations?
+
+72
+00:03:11,959 --> 00:03:12,959
+None, Mr. President.
+
+73
+00:03:12,959 --> 00:03:13,959
+Communications.
+
+74
+00:03:13,959 --> 00:03:14,959
+Do we have any communications?
+
+75
+00:03:14,959 --> 00:03:16,320
+None, Mr. President.
+
+76
+00:03:16,320 --> 00:03:23,399
+We do have one proclamation this evening, Proclamation 1127, an observance of the
+
+77
+00:03:23,399 --> 00:03:27,880
+annual Indigenous Peoples Day in the City and County of Denver.
+
+78
+00:03:27,880 --> 00:03:29,880
+Councilman Lopez, will you please read it?
+
+79
+00:03:29,880 --> 00:03:34,120
+Thank you, Mr. President, with pride.
+
+80
+00:03:34,120 --> 00:03:35,120
+Proclamation number 17.
+
+81
+00:03:35,120 --> 00:03:38,120
+Well, let me just say this differently.
+
+82
+00:03:38,200 --> 00:03:44,040
+Proclamation number 1127, series of 2017, an observance of the second annual Indigenous
+
+83
+00:03:44,040 --> 00:03:46,560
+Peoples Day in the City and County of Denver.
+
+84
+00:03:46,560 --> 00:03:49,720
+Whereas the Council of the City and County of Denver recognizes that the Indigenous
+
+85
+00:03:49,720 --> 00:03:55,320
+Peoples have lived and flourished on the lands known as the Americas since time immemorial
+
+86
+00:03:55,320 --> 00:04:00,560
+and that Denver and the surrounding communities are built upon the ancestral homelands
+
+87
+00:04:00,560 --> 00:04:06,040
+of numerous Indigenous tribes, which include the Southern Ute, the Ute Mountain, Ute
+
+88
+00:04:06,079 --> 00:04:11,260
+of Colorado, and whereas the tribal homelands and seasonal encampments of the Arapaho and
+
+89
+00:04:11,260 --> 00:04:16,360
+Cheyenne people along the banks of the Cherry Creek and South Platte River confluence
+
+90
+00:04:16,360 --> 00:04:19,920
+give bearing to the future settlements that would become the birthplace of the Mile
+
+91
+00:04:19,920 --> 00:04:22,480
+High City.
+
+92
+00:04:22,480 --> 00:04:27,920
+And whereas Colorado encompasses the ancestral homelands of 48 tribes, and the City and
+
+93
+00:04:27,920 --> 00:04:32,480
+County of Denver and surrounding communities are home to the descendants of approximately
+
+94
+00:04:32,480 --> 00:04:34,860
+100 tribal nations.
+
+95
+00:04:34,860 --> 00:04:42,100
+And whereas, on October 3rd, 2016, the City and County of Denver unanimously passed
+
+96
+00:04:42,100 --> 00:04:48,140
+Council Bill 801, series of 2016, officially designating the second Monday of October
+
+97
+00:04:48,140 --> 00:04:53,980
+of each year as Indigenous Peoples Day in Denver, Colorado.
+
+98
+00:04:53,980 --> 00:04:58,540
+And whereas, the Council of the City and County of Denver continues to recognize and
+
+99
+00:04:58,620 --> 00:05:07,620
+value the vast contributions made to the community through Indigenous people's knowledge, science,
+
+100
+00:05:07,620 --> 00:05:13,820
+philosophy, arts, and culture, and through these contributions, the City of Denver has
+
+101
+00:05:13,820 --> 00:05:16,740
+developed and thrived.
+
+102
+00:05:16,740 --> 00:05:22,340
+Whereas the Indigenous community, especially youth, have made great efforts this year
+
+103
+00:05:22,340 --> 00:05:26,420
+to draw attention to the contributions of Indigenous people, including Confluence
+
+104
+00:05:27,300 --> 00:05:32,700
+Drawing record attendance to a national Indigenous youth leadership conference, leading conversations
+
+105
+00:05:32,700 --> 00:05:38,180
+on inclusion with their peers, and supporting increased Indigenous youth participation in
+
+106
+00:05:38,180 --> 00:05:40,500
+science and engineering.
+
+107
+00:05:40,500 --> 00:05:45,180
+Now therefore, be it proclaimed by the Council of the City and County of Denver,
+
+108
+00:05:45,180 --> 00:05:49,300
+Section 1, that the Council of the City and County of Denver celebrates and honours
+
+109
+00:05:49,300 --> 00:05:54,140
+the cultural and foundational contributions of Indigenous people to our history, our
+
+110
+00:05:54,140 --> 00:06:01,140
+past, our present, and future, and continues to promote the education of the Denver community
+
+111
+00:06:01,140 --> 00:06:07,620
+about these historic and contemporary contributions of Indigenous people.
+
+112
+00:06:07,620 --> 00:06:13,780
+Section 2, that the City and County of Denver, Colorado, does hereby observe October
+
+113
+00:06:13,780 --> 00:06:18,219
+9, 2017, as Indigenous Peoples Day.
+
+114
+00:06:18,219 --> 00:06:22,460
+Section 3, that the Clerk of the City and County of Denver shall attest and affix
+
+115
+00:06:22,580 --> 00:06:26,820
+the seal of the City and County of Denver to this proclamation, and that a copy be
+
+116
+00:06:26,820 --> 00:06:34,140
+transmitted to the Denver American Indian Commission, the City and County of Denver
+
+117
+00:06:34,140 --> 00:06:40,020
+School District Number 1, and the Colorado Commission on Indian Affairs.
+
+118
+00:06:40,020 --> 00:06:41,140
+Thank you, Councilman Lopez.
+
+119
+00:06:41,140 --> 00:06:42,140
+Your motion to adopt.
+
+120
+00:06:42,140 --> 00:06:48,220
+Mr. President, I move that Proclamation Number 1127, Series of 2017 be adopted.
+
+121
+00:06:48,220 --> 00:06:50,660
+Alright, it has been moved and seconded.
+
+122
+00:06:50,660 --> 00:06:52,020
+It comes to the members of Council.
+
+123
+00:06:52,020 --> 00:06:53,020
+Councilman Lopez.
+
+124
+00:06:53,020 --> 00:06:55,380
+Thank you, Mr. President.
+
+125
+00:06:55,380 --> 00:07:01,180
+It gives me a lot of pleasure and pride to read this proclamation officially for the
+
+126
+00:07:01,180 --> 00:07:09,700
+third time, but as Indigenous Peoples Day in Denver officially for the second time.
+
+127
+00:07:09,700 --> 00:07:15,659
+It's always awesome to be able to see not just this proclamation come by my desk,
+
+128
+00:07:15,660 --> 00:07:23,380
+but to see so many different people from our community in our council chambers.
+
+129
+00:07:23,380 --> 00:07:27,820
+It was a very beautiful piece of artwork that you presented to us earlier, and it
+
+130
+00:07:27,820 --> 00:07:34,300
+is exactly the spirit that we drafted this proclamation and this actual, the ordinance
+
+131
+00:07:34,300 --> 00:07:39,500
+that created Indigenous Peoples Day when we sat down and wrote it, and as a community,
+
+132
+00:07:39,500 --> 00:07:43,900
+we couldn't think of anything else to begin except for the confluence of the
+
+133
+00:07:43,900 --> 00:07:44,900
+two rivers.
+
+134
+00:07:44,940 --> 00:07:50,380
+And those confluence of the two rivers created such a great city, and we live in such an amazing
+
+135
+00:07:50,380 --> 00:07:56,300
+city and we're all proud of it, and sometimes we, and a lot of people from all over the
+
+136
+00:07:56,300 --> 00:07:59,660
+country or all over the world are proud of it, and sometimes a little too proud
+
+137
+00:07:59,660 --> 00:08:07,900
+of it is just telling them to go back home, but I'm kidding when I say that.
+
+138
+00:08:07,900 --> 00:08:13,100
+But the really nice thing about this is that we are celebrating Indigenous Peoples
+
+139
+00:08:13,140 --> 00:08:18,580
+Day out of pride for who we are, who we are as a city and the contributions of
+
+140
+00:08:18,580 --> 00:08:24,140
+Indigenous people to the city, not out of spite, not out of a replacement of one
+
+141
+00:08:24,140 --> 00:08:31,460
+culture over the other or out of contempt or disrespect.
+
+142
+00:08:31,460 --> 00:08:39,100
+You know, I think of a quote that Cesar Chavez made very popular, and it stuck
+
+143
+00:08:39,140 --> 00:08:45,260
+with me for a very long time, and anytime I have the opportunity to speak in front
+
+144
+00:08:45,260 --> 00:08:53,100
+of children and especially children in our community that, you know, they often
+
+145
+00:08:53,100 --> 00:08:58,140
+second-guess themselves on where they're coming from, who they are, and I always
+
+146
+00:08:58,140 --> 00:09:02,260
+say that, you know, it's very important to be proud of who we are from, and
+
+147
+00:09:02,260 --> 00:09:06,380
+the quote that I use from Cesar Chavez is, you know, pride in one's own
+
+148
+00:09:06,420 --> 00:09:12,660
+cultures does not require contempt or disrespect of another, right, and that's
+
+149
+00:09:12,660 --> 00:09:16,740
+very important. It's very important for us to recognize that, no matter who we
+
+150
+00:09:16,740 --> 00:09:21,220
+are, where we come from in this society, that your pride in your own culture
+
+151
+00:09:21,220 --> 00:09:26,220
+does not require the contempt or disrespect of another, and man, what a
+
+152
+00:09:26,220 --> 00:09:31,020
+year for that to just sit on our shoulders for a while, for us to
+
+153
+00:09:31,020 --> 00:09:38,540
+think about, right, and so I wanted to just to thank you all. I think the
+
+154
+00:09:38,540 --> 00:09:42,420
+Commission, there's gonna be a couple individuals that are gonna come speak.
+
+155
+00:09:42,420 --> 00:09:46,620
+Thank you for your art, your lovely artwork, for us to see what's in your
+
+156
+00:09:46,620 --> 00:09:50,620
+heart and what now has become a, probably is gonna be a very important
+
+157
+00:09:50,620 --> 00:09:55,699
+symbol for the community, and also just for the work, the daily work
+
+158
+00:09:55,699 --> 00:09:59,220
+every single day. We still have a lot of brothers and sisters whose
+
+159
+00:09:59,700 --> 00:10:05,300
+ancestors once lived in these lands freely now stand on street corners, right,
+
+160
+00:10:05,300 --> 00:10:13,060
+in poverty, without access to services, right, without access to sobriety or
+
+161
+00:10:13,060 --> 00:10:20,380
+even housing or jobs, and what a, what a, what a cruel way to pay back a
+
+162
+00:10:20,380 --> 00:10:24,020
+culture that has paved the way for the city to be built upon its shores,
+
+163
+00:10:24,180 --> 00:10:30,540
+right, so we have a lot of work to do, and these kind of proclamations in this day
+
+164
+00:10:30,540 --> 00:10:35,540
+is not a day off, it's a day on in Denver, right, and addressing those
+
+165
+00:10:35,540 --> 00:10:42,180
+those critical issues, so I know that my colleagues are very supportive. I'm
+
+166
+00:10:42,180 --> 00:10:44,819
+gonna ask you to support this proclamation, as I know you always
+
+167
+00:10:44,819 --> 00:10:49,420
+have done in the past. I'm very proud of today. Oh, and we made Time
+
+168
+00:10:49,420 --> 00:10:54,140
+Magazine and Newsweek once again today, as being a leader in terms of the cities
+
+169
+00:10:54,140 --> 00:10:58,219
+that are celebrating Indigenous Peoples Day. I wanted to make a point out of
+
+170
+00:10:58,219 --> 00:11:03,780
+that. Thank you, Councilman Lopez, and thank you for sponsoring this. Councilman
+
+171
+00:11:03,780 --> 00:11:07,420
+Martega? Mr. President, I want to ask that my name be added. I don't think I
+
+172
+00:11:07,420 --> 00:11:14,459
+could add much more to what Councilman Lopez has shared with us. I want to
+
+173
+00:11:14,459 --> 00:11:19,020
+thank him for bringing this forward, and really just appreciate all the
+
+174
+00:11:19,020 --> 00:11:25,900
+contributions that our Native American community has contributed to this great
+
+175
+00:11:25,900 --> 00:11:30,939
+city and great state. I worked in the Lieutenant Governor's Office when the
+
+176
+00:11:30,939 --> 00:11:35,220
+Commission on Indian Affairs was created and had the benefit of being
+
+177
+00:11:35,220 --> 00:11:42,020
+able to go down to the Four Corners for a peace treaty signing ceremony
+
+178
+00:11:42,020 --> 00:11:45,980
+between the Utes and the Comanches that had been sort of at odds with
+
+179
+00:11:45,980 --> 00:11:49,820
+each other for about a hundred years, and just being able to participate in
+
+180
+00:11:49,820 --> 00:11:55,860
+that powwow was pretty awesome. And for those of you who continue to
+
+181
+00:11:55,860 --> 00:12:00,900
+participate in the annual powwow, it's such a great opportunity for
+
+182
+00:12:00,900 --> 00:12:06,620
+everybody else to enjoy so many of the contributions of the culture. I
+
+183
+00:12:06,620 --> 00:12:11,420
+mean, to see that the dance continues to be carried on, as well as the
+
+184
+00:12:11,420 --> 00:12:16,140
+Native language, from generation to generation is just so incredible,
+
+185
+00:12:16,140 --> 00:12:22,699
+because in so many cultures, you know, people have come here and assimilated to
+
+186
+00:12:22,699 --> 00:12:29,620
+the, you know, the norms here and they lose their language and lose a
+
+187
+00:12:29,620 --> 00:12:33,780
+lot of the culture. And in the Native community, that hasn't happened.
+
+188
+00:12:33,780 --> 00:12:42,660
+That has, that, you know, commitment to just passing that on from generation to
+
+189
+00:12:42,660 --> 00:12:48,339
+generation is so important. And so I'm happy to be a co-sponsor of this
+
+190
+00:12:48,339 --> 00:12:53,699
+tonight. Thank you. All right, thank you, Councilwoman Artega. Councilwoman
+
+191
+00:12:53,699 --> 00:12:57,500
+Kenich. Thank you very much, and I also want to thank my colleague for
+
+192
+00:12:57,500 --> 00:13:02,100
+bringing this forward. And I just wanted to say a word to the artists about how
+
+193
+00:13:02,140 --> 00:13:07,020
+beautiful and moving I thought this logo was and your description of it. And I
+
+194
+00:13:07,020 --> 00:13:11,820
+think one of the things that is clear is, you know, the words sometimes don't
+
+195
+00:13:11,820 --> 00:13:15,740
+convey the power of imagery or music or the other pieces that make up
+
+196
+00:13:15,740 --> 00:13:20,220
+culture, and so I think the art is so important. And when you talked about
+
+197
+00:13:20,220 --> 00:13:23,700
+water, I was also thinking about land, and I guess I just wanted to say
+
+198
+00:13:23,700 --> 00:13:27,940
+thank you. Many of the Native American peoples of Colorado have been at the
+
+199
+00:13:27,980 --> 00:13:32,980
+forefront, or actually nationally, of defending some of the public lands that
+
+200
+00:13:32,980 --> 00:13:35,900
+have been protected over the last few years that are under attack right now.
+
+201
+00:13:35,900 --> 00:13:41,180
+And they're places that you all, the communities have fought to protect, but
+
+202
+00:13:41,180 --> 00:13:45,660
+that everyone gets to enjoy. And so I just think that it's an example of
+
+203
+00:13:45,660 --> 00:13:50,500
+where cultural preservation intersects with environmental protection, with, you
+
+204
+00:13:50,500 --> 00:13:54,620
+know, recreation and all of the other ways that public lands are so
+
+205
+00:13:54,660 --> 00:13:58,420
+important. And so I think I just wanted to say thank you for that, because I
+
+206
+00:13:58,420 --> 00:14:02,140
+think we have some very sacred places in our country that are at risk right
+
+207
+00:14:02,140 --> 00:14:06,980
+now. And so as we celebrate, I appreciate that there's still a piece
+
+208
+00:14:06,980 --> 00:14:10,660
+of resistance in here, and I think that I just want to mention a
+
+209
+00:14:10,660 --> 00:14:14,780
+solidarity, and mention a feeling of solidarity with that resistance. So
+
+210
+00:14:14,780 --> 00:14:23,260
+thank you, and happy Confluence Week. Thank you, Councilman Kenich, and see
+
+211
+00:14:23,300 --> 00:14:31,380
+no other comments. I'll just say a couple. And in a time of such divisive
+
+212
+00:14:31,380 --> 00:14:37,740
+ugliness and just despicable behavior from our leadership, the reason I'm so
+
+213
+00:14:37,740 --> 00:14:42,060
+supportive of Indigenous Peoples' Day is because it means inclusivity. It
+
+214
+00:14:42,060 --> 00:14:49,180
+means respecting all, respecting those who have been silenced on purpose
+
+215
+00:14:49,180 --> 00:14:53,740
+for a long time and whose history has not been told. And so we celebrate
+
+216
+00:14:53,740 --> 00:14:59,980
+inclusivity in the face of such evil times, honestly.
+
